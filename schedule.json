@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-04",
+  "updated": "2026-11-05",
   "events": [
     {
       "date": "2026-11-01",
@@ -10,46 +10,6 @@
       "title": "SBS 人气歌谣",
       "sub": "SBS",
       "url": "https://weverse.io/and2ble/notice/40495"
-    },
-    {
-      "date": "2026-11-01",
-      "t": "20:00–21:00",
-      "zone": "KST",
-      "group": "fan",
-      "type": "Lucky Draw",
-      "title": "线下活动截止",
-      "sub": "MAKESTAR 20:00 · WITHMUU / M2U RECORD 21:00",
-      "url": "https://weverse.io/and2ble/notice/40442"
-    },
-    {
-      "date": "2026-11-01",
-      "t": "23:59",
-      "zone": "KST",
-      "group": "fan",
-      "type": "Lucky Draw",
-      "title": "线上活动截止",
-      "sub": "",
-      "url": "https://weverse.io/and2ble/notice/40442"
-    },
-    {
-      "date": "2026-11-02",
-      "t": "10:00",
-      "zone": "CST",
-      "group": "fan",
-      "type": "签售",
-      "title": "Counting Stars｜报名开始",
-      "sub": "11/21 线下签售",
-      "url": "https://weverse.io/and2ble/notice/40599"
-    },
-    {
-      "date": "2026-11-02",
-      "t": "15:00",
-      "zone": "KST",
-      "group": "fan",
-      "type": "签售",
-      "title": "MAKESTAR 11/17 MEET&CALL｜当选公布",
-      "sub": "",
-      "url": "https://www.makestar.com/product/21586"
     },
     {
       "date": "2026-11-03",
@@ -98,7 +58,7 @@
       "group": "artist",
       "type": "预录",
       "title": "SHOW CHAMPION · Potion",
-      "sub": "MBC Dream Center · 预录时间暂定 · 06:10 / 07:00 KST 签到 · 08:00 KST 集合",
+      "sub": "MBC Dream Center · 预录时间暂定",
       "url": "https://weverse.io/and2ble/notice/40605"
     },
     {
@@ -108,7 +68,7 @@
       "group": "artist",
       "type": "预录",
       "title": "SHOW CHAMPION · French Kissing",
-      "sub": "MBC Dream Center · 预录时间暂定 · 11:20 KST 签到",
+      "sub": "MBC Dream Center · 预录时间暂定",
       "url": "https://weverse.io/and2ble/notice/40605"
     },
     {
@@ -118,18 +78,8 @@
       "group": "artist",
       "type": "打歌",
       "title": "SHOW CHAMPION",
-      "sub": "MBC Dream Center · 15:30 签到",
+      "sub": "MBC Dream Center",
       "url": "https://weverse.io/and2ble/notice/40605"
-    },
-    {
-      "date": "2026-11-05",
-      "t": "19:30–19:40",
-      "zone": "KST",
-      "group": "fan",
-      "type": "票务",
-      "title": "KBS2 Music Bank｜粉丝席报名",
-      "sub": "11/6 16:45 正式播出 · 先到先得 10 人",
-      "url": "https://weverse.io/and2ble/notice/40699"
     },
     {
       "date": "2026-11-06",
@@ -148,18 +98,8 @@
       "group": "artist",
       "type": "打歌",
       "title": "KBS2 Music Bank",
-      "sub": "15:20 签到 · 10 人 · KBS Annex Building · Seoul",
+      "sub": "KBS Annex Building · Seoul",
       "url": "https://weverse.io/and2ble/notice/40699"
-    },
-    {
-      "date": "2026-11-06",
-      "t": "22:59",
-      "zone": "CST",
-      "group": "fan",
-      "type": "签售",
-      "title": "Counting Stars｜报名截止",
-      "sub": "11/21 线下签售",
-      "url": "https://weverse.io/and2ble/notice/40599"
     },
     {
       "date": "2026-11-07",
@@ -180,25 +120,6 @@
       "title": "MAKESTAR",
       "sub": "线下签售",
       "url": "https://weverse.io/and2ble/notice/40026"
-    },
-    {
-      "date": "2026-11-09",
-      "t": "18:00",
-      "zone": "CST",
-      "group": "fan",
-      "type": "签售",
-      "title": "Counting Stars｜当选公布",
-      "sub": "11/21 线下签售",
-      "url": "https://weverse.io/and2ble/notice/40599"
-    },
-    {
-      "date": "2026-11-10",
-      "t": "",
-      "group": "fan",
-      "type": "周边",
-      "title": "Youngpoong / ARTBOX｜购专特典活动截止",
-      "sub": "10/28 – 11/10",
-      "url": ""
     },
     {
       "date": "2026-11-13",
@@ -241,26 +162,6 @@
       "url": "https://www.makestar.com/product/21586"
     },
     {
-      "date": "2026-11-19",
-      "t": "",
-      "zone": "JST",
-      "group": "fan",
-      "type": "票务",
-      "title": "Japan FAN-CON · 先行结果公布",
-      "sub": "",
-      "url": ""
-    },
-    {
-      "date": "2026-11-20",
-      "t": "",
-      "zone": "JST",
-      "group": "fan",
-      "type": "票务",
-      "title": "Japan FAN-CON · 三次先行开始",
-      "sub": "",
-      "url": ""
-    },
-    {
       "date": "2026-11-20",
       "t": "",
       "zone": "CST",
@@ -279,26 +180,6 @@
       "title": "Counting Stars",
       "sub": "线下签售",
       "url": "https://weverse.io/and2ble/notice/40599"
-    },
-    {
-      "date": "2026-11-23",
-      "t": "",
-      "zone": "JST",
-      "group": "fan",
-      "type": "票务",
-      "title": "Japan FAN-CON · Upgrade 先行",
-      "sub": "",
-      "url": ""
-    },
-    {
-      "date": "2026-11-29",
-      "t": "",
-      "zone": "JST",
-      "group": "fan",
-      "type": "票务",
-      "title": "Japan FAN-CON · 三次先行截止",
-      "sub": "",
-      "url": ""
     },
     {
       "date": "2026-12-04",
@@ -329,16 +210,6 @@
       "title": "2026 AND2BLE FAN-CON · W!nter inside",
       "sub": "Seoul · Korea University Hwajeong Gymnasium",
       "url": "https://weverse.io/and2ble/notice/40455"
-    },
-    {
-      "date": "2026-12-07",
-      "t": "20:00",
-      "zone": "JST",
-      "group": "fan",
-      "type": "票务",
-      "title": "Yokohama FAN-CON · 一般售票开始",
-      "sub": "",
-      "url": "https://www.qoo10.jp/gmkt.inc/Special/Special.aspx?sid=368098"
     },
     {
       "date": "2026-12-11",
