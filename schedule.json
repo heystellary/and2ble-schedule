@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-05",
+  "updated": "2026-11-06",
   "events": [
     {
       "date": "2026-11-01",
@@ -133,13 +133,13 @@
     },
     {
       "date": "2026-11-06",
-      "t": "",
-      "zone": "KST",
-      "group": "artist",
-      "type": "签售",
-      "title": "M2U RECORD",
-      "sub": "线下签售",
-      "url": "https://www.m2urecord.com/board/free/list.html?board_no=1"
+      "t": "15:00",
+      "zone": "JST",
+      "group": "fan",
+      "type": "票务",
+      "title": "Yokohama FAN-CON · 一次先行结果公布",
+      "sub": "",
+      "url": "https://www.qoo10.jp/gmkt.inc/Special/Special.aspx?sid=368098"
     },
     {
       "date": "2026-11-06",
@@ -150,6 +150,26 @@
       "title": "KBS2 Music Bank",
       "sub": "KBS Annex Building · Seoul",
       "url": "https://weverse.io/and2ble/notice/40699"
+    },
+    {
+      "date": "2026-11-06",
+      "t": "18:00",
+      "zone": "JST",
+      "group": "fan",
+      "type": "票务",
+      "title": "Yokohama FAN-CON · 二次先行开始",
+      "sub": "",
+      "url": "https://www.qoo10.jp/gmkt.inc/Special/Special.aspx?sid=368098"
+    },
+    {
+      "date": "2026-11-06",
+      "t": "20:00",
+      "zone": "KST",
+      "group": "artist",
+      "type": "签售",
+      "title": "M2U RECORD",
+      "sub": "线下签售",
+      "url": "https://weverse.io/and2ble/notice/40156"
     },
     {
       "date": "2026-11-06",
@@ -173,13 +193,13 @@
     },
     {
       "date": "2026-11-07",
-      "t": "18:00",
+      "t": "17:00",
       "zone": "KST",
       "group": "artist",
       "type": "演出",
       "title": "2026 KGMA · ARTIST DAY",
-      "sub": "红毯 16:00 · 颁奖礼 18:00 · Inspire Arena · Incheon",
-      "url": ""
+      "sub": "红毯 16:00 · 颁奖礼 17:00 · Gocheok Sky Dome · Seoul",
+      "url": "https://news.hulu.jp/2026kgma_1/"
     },
     {
       "date": "2026-11-08",
@@ -212,17 +232,17 @@
     },
     {
       "date": "2026-11-13",
-      "t": "",
+      "t": "20:00",
       "zone": "KST",
       "group": "artist",
       "type": "签售",
       "title": "JJMUZE",
       "sub": "线下签售",
-      "url": ""
+      "url": "https://weverse.io/and2ble/notice/40272"
     },
     {
       "date": "2026-11-14",
-      "t": "",
+      "t": "14:00",
       "zone": "KST",
       "group": "artist",
       "type": "签售",
@@ -241,34 +261,34 @@
       "url": ""
     },
     {
+      "date": "2026-11-15",
+      "t": "23:59",
+      "zone": "JST",
+      "group": "fan",
+      "type": "票务",
+      "title": "Yokohama FAN-CON · 二次先行截止",
+      "sub": "",
+      "url": "https://www.qoo10.jp/gmkt.inc/Special/Special.aspx?sid=368098"
+    },
+    {
       "date": "2026-11-17",
-      "t": "",
+      "t": "20:00",
       "zone": "KST",
       "group": "artist",
       "type": "签售",
       "title": "MAKESTAR",
       "sub": "线下签售",
-      "url": "https://www.makestar.com/product/21586"
+      "url": "https://weverse.io/and2ble/notice/40497"
     },
     {
       "date": "2026-11-19",
-      "t": "",
+      "t": "15:00",
       "zone": "JST",
       "group": "fan",
       "type": "票务",
-      "title": "Japan FAN-CON · 先行结果公布",
+      "title": "Yokohama FAN-CON · 二次先行结果公布",
       "sub": "",
-      "url": ""
-    },
-    {
-      "date": "2026-11-20",
-      "t": "",
-      "zone": "JST",
-      "group": "fan",
-      "type": "票务",
-      "title": "Japan FAN-CON · 三次先行开始",
-      "sub": "",
-      "url": ""
+      "url": "https://www.qoo10.jp/gmkt.inc/Special/Special.aspx?sid=368098"
     },
     {
       "date": "2026-11-20",
@@ -281,6 +301,16 @@
       "url": "https://www.sina.cn/media/6006511312"
     },
     {
+      "date": "2026-11-20",
+      "t": "14:00",
+      "zone": "JST",
+      "group": "fan",
+      "type": "票务",
+      "title": "Yokohama FAN-CON · 三次先行开始",
+      "sub": "",
+      "url": "https://www.qoo10.jp/gmkt.inc/Special/Special.aspx?sid=368098"
+    },
+    {
       "date": "2026-11-21",
       "t": "",
       "zone": "CST",
@@ -291,24 +321,34 @@
       "url": "https://weverse.io/and2ble/notice/40599"
     },
     {
-      "date": "2026-11-23",
-      "t": "",
+      "date": "2026-11-22",
+      "t": "23:59",
       "zone": "JST",
       "group": "fan",
       "type": "票务",
-      "title": "Japan FAN-CON · Upgrade 先行",
+      "title": "Yokohama FAN-CON · 二次先行付款截止",
       "sub": "",
-      "url": ""
+      "url": "https://www.qoo10.jp/gmkt.inc/Special/Special.aspx?sid=368098"
+    },
+    {
+      "date": "2026-11-23",
+      "t": "14:00",
+      "zone": "JST",
+      "group": "fan",
+      "type": "票务",
+      "title": "Yokohama FAN-CON · Upgrade 先行开始",
+      "sub": "",
+      "url": "https://www.qoo10.jp/gmkt.inc/Special/Special.aspx?sid=368098"
     },
     {
       "date": "2026-11-29",
-      "t": "",
+      "t": "23:59",
       "zone": "JST",
       "group": "fan",
       "type": "票务",
-      "title": "Japan FAN-CON · 三次先行截止",
-      "sub": "",
-      "url": ""
+      "title": "Yokohama FAN-CON · 三次先行截止",
+      "sub": "Upgrade 先行同日截止",
+      "url": "https://www.qoo10.jp/gmkt.inc/Special/Special.aspx?sid=368098"
     },
     {
       "date": "2026-12-04",
