@@ -123,6 +123,16 @@
     },
     {
       "date": "2026-11-05",
+      "t": "11:00",
+      "zone": "KST",
+      "group": "fan",
+      "type": "周边",
+      "title": "2027 Season’s Greetings｜预售开始",
+      "sub": "预售时间待官方链接复核",
+      "url": ""
+    },
+    {
+      "date": "2026-11-05",
       "t": "19:30–19:40",
       "zone": "KST",
       "group": "fan",
@@ -180,6 +190,16 @@
       "title": "Counting Stars｜报名截止",
       "sub": "11/21 佛山 · 线下签售",
       "url": "https://weverse.io/and2ble/notice/40599"
+    },
+    {
+      "date": "2026-11-07",
+      "t": "10:50",
+      "zone": "KST",
+      "group": "artist",
+      "type": "预录",
+      "title": "MBC《Show! 音乐中心》｜预录",
+      "sub": "AND2BLE · 预录",
+      "url": ""
     },
     {
       "date": "2026-11-07",
