@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-06",
+  "updated": "2026-11-07",
   "events": [
     {
       "date": "2026-11-01",
@@ -203,6 +203,16 @@
     },
     {
       "date": "2026-11-07",
+      "t": "12:30–12:40",
+      "zone": "KST",
+      "group": "fan",
+      "type": "票务",
+      "title": "SBS 人气歌谣｜粉丝席报名",
+      "sub": "11/8 最后一次打歌 · 先到先得",
+      "url": "https://weverse.io/and2ble/notice/40745"
+    },
+    {
+      "date": "2026-11-07",
       "t": "15:20",
       "zone": "KST",
       "group": "artist",
@@ -220,6 +230,16 @@
       "title": "2026 KGMA · ARTIST DAY",
       "sub": "红毯 16:00 · 颁奖礼 17:00 · Gocheok Sky Dome · Seoul",
       "url": "https://news.hulu.jp/2026kgma_1/"
+    },
+    {
+      "date": "2026-11-08",
+      "t": "15:20",
+      "zone": "KST",
+      "group": "artist",
+      "type": "打歌",
+      "title": "SBS 人气歌谣｜回归末放",
+      "sub": "SBS Public Hall · Seoul",
+      "url": "https://weverse.io/and2ble/notice/40745"
     },
     {
       "date": "2026-11-08",
