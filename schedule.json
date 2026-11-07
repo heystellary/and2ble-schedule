@@ -203,6 +203,16 @@
     },
     {
       "date": "2026-11-07",
+      "t": "11:00",
+      "zone": "KST",
+      "group": "fan",
+      "type": "签售",
+      "title": "MUSIC PLANT｜签售报名开始",
+      "sub": "11/18 线下签售30名＋团体视频通话20名",
+      "url": "https://weverse.io/and2ble/notice/40809"
+    },
+    {
+      "date": "2026-11-07",
       "t": "12:30–12:40",
       "zone": "KST",
       "group": "fan",
@@ -262,6 +272,16 @@
       "url": "https://weverse.io/and2ble/notice/40599"
     },
     {
+      "date": "2026-11-09",
+      "t": "23:59",
+      "zone": "KST",
+      "group": "fan",
+      "type": "签售",
+      "title": "MUSIC PLANT｜签售报名截止",
+      "sub": "11/18 线下签售＋团体视频通话",
+      "url": "https://weverse.io/and2ble/notice/40809"
+    },
+    {
       "date": "2026-11-10",
       "t": "",
       "group": "fan",
@@ -269,6 +289,16 @@
       "title": "Youngpoong / ARTBOX｜购专特典活动截止",
       "sub": "10/28 – 11/10",
       "url": ""
+    },
+    {
+      "date": "2026-11-10",
+      "t": "12:00",
+      "zone": "KST",
+      "group": "fan",
+      "type": "签售",
+      "title": "MUSIC PLANT｜中选名单公布",
+      "sub": "官网公布 · 线下30名＋团体视频通话20名",
+      "url": "https://weverse.io/and2ble/notice/40809"
     },
     {
       "date": "2026-11-13",
@@ -319,6 +349,16 @@
       "title": "MAKESTAR",
       "sub": "线下签售",
       "url": "https://weverse.io/and2ble/notice/40497"
+    },
+    {
+      "date": "2026-11-18",
+      "t": "20:00",
+      "zone": "KST",
+      "group": "artist",
+      "type": "签售",
+      "title": "MUSIC PLANT",
+      "sub": "线下签售30名＋团体视频通话20名",
+      "url": "https://weverse.io/and2ble/notice/40809"
     },
     {
       "date": "2026-11-19",
