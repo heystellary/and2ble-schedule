@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-08",
+  "updated": "2026-11-10",
   "events": [
     {
       "date": "2026-11-01",
@@ -341,6 +341,26 @@
       "url": "https://www.qoo10.jp/gmkt.inc/Special/Special.aspx?sid=368098"
     },
     {
+      "date": "2026-11-15",
+      "t": "23:59",
+      "zone": "JST",
+      "group": "fan",
+      "type": "票务",
+      "title": "日本限定专辑活动｜第一轮报名截止",
+      "sub": "包含11/29线上通话及12/14–15东京线下活动",
+      "url": "https://and2ble-official.jp/s/n219o/page/news_detail?id=587830"
+    },
+    {
+      "date": "2026-11-16",
+      "t": "18:00",
+      "zone": "JST",
+      "group": "fan",
+      "type": "票务",
+      "title": "日本限定专辑活动｜第二轮报名开始",
+      "sub": "N:DCLO JAPAN会员限定 · 12/14–15语音录制活动",
+      "url": "https://and2ble-official.jp/s/n219o/page/news_detail?id=587830"
+    },
+    {
       "date": "2026-11-17",
       "t": "20:00",
       "zone": "KST",
@@ -421,6 +441,26 @@
       "url": "https://www.qoo10.jp/gmkt.inc/Special/Special.aspx?sid=368098"
     },
     {
+      "date": "2026-11-24",
+      "t": "",
+      "zone": "JST",
+      "group": "fan",
+      "type": "票务",
+      "title": "日本限定专辑活动｜第一轮抽选结果",
+      "sub": "预计公布 · 具体时刻未公告",
+      "url": "https://and2ble-official.jp/s/n219o/page/news_detail?id=587830"
+    },
+    {
+      "date": "2026-11-29",
+      "t": "",
+      "zone": "JST",
+      "group": "artist",
+      "type": "签售",
+      "title": "日本限定专辑｜成员单独线上通话会",
+      "sub": "WithLIVE Meet&Greet · 具体时间仅通知中选者",
+      "url": "https://and2ble-official.jp/s/n219o/page/news_detail?id=587830"
+    },
+    {
       "date": "2026-11-29",
       "t": "23:59",
       "zone": "JST",
@@ -429,6 +469,26 @@
       "title": "Yokohama FAN-CON · 三次先行截止",
       "sub": "Upgrade 先行同日截止",
       "url": "https://www.qoo10.jp/gmkt.inc/Special/Special.aspx?sid=368098"
+    },
+    {
+      "date": "2026-11-29",
+      "t": "23:59",
+      "zone": "JST",
+      "group": "fan",
+      "type": "票务",
+      "title": "日本限定专辑活动｜第二轮报名截止",
+      "sub": "N:DCLO JAPAN会员限定 · 语音录制活动",
+      "url": "https://and2ble-official.jp/s/n219o/page/news_detail?id=587830"
+    },
+    {
+      "date": "2026-12-04",
+      "t": "",
+      "zone": "JST",
+      "group": "fan",
+      "type": "票务",
+      "title": "日本限定专辑活动｜第二轮抽选结果",
+      "sub": "预计公布 · 具体时刻未公告",
+      "url": "https://and2ble-official.jp/s/n219o/page/news_detail?id=587830"
     },
     {
       "date": "2026-12-04",
@@ -489,6 +549,26 @@
       "title": "2026 AND2BLE FAN-CON · W!nter inside",
       "sub": "Yokohama · K Arena Yokohama",
       "url": "https://www.qoo10.jp/gmkt.inc/Special/Special.aspx?sid=368098"
+    },
+    {
+      "date": "2026-12-14",
+      "t": "",
+      "zone": "JST",
+      "group": "artist",
+      "type": "演出",
+      "title": "日本专辑特典会｜French Kissing Day",
+      "sub": "东京 EBiS303 · Kiss Me ♡ Catch Me、送吻会、会员限定语音录制等 · 时间未公布",
+      "url": "https://and2ble-official.jp/s/n219o/page/news_detail?id=587830"
+    },
+    {
+      "date": "2026-12-15",
+      "t": "",
+      "zone": "JST",
+      "group": "artist",
+      "type": "演出",
+      "title": "日本专辑特典会｜Christmas Day",
+      "sub": "东京 EBiS303 · Eye ♡ Contact、送吻会、会员限定语音录制等 · 时间未公布",
+      "url": "https://and2ble-official.jp/s/n219o/page/news_detail?id=587830"
     }
   ]
 }
