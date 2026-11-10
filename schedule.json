@@ -292,6 +292,16 @@
     },
     {
       "date": "2026-11-10",
+      "t": "10:00",
+      "zone": "CST",
+      "group": "fan",
+      "type": "签售",
+      "title": "Counting Stars｜11/22 佛山签售报名开始",
+      "sub": "A组签售40名＋B组观礼150名，共190名",
+      "url": "https://weverse.io/and2ble/notice/40832"
+    },
+    {
+      "date": "2026-11-10",
       "t": "12:00",
       "zone": "KST",
       "group": "fan",
@@ -319,6 +329,16 @@
       "title": "WITHMUU",
       "sub": "线下签售",
       "url": "https://weverse.io/and2ble/notice/40387"
+    },
+    {
+      "date": "2026-11-14",
+      "t": "22:59",
+      "zone": "CST",
+      "group": "fan",
+      "type": "签售",
+      "title": "Counting Stars｜11/22 佛山签售报名截止",
+      "sub": "A组签售40名＋B组观礼150名，共190名",
+      "url": "https://weverse.io/and2ble/notice/40832"
     },
     {
       "date": "2026-11-15",
@@ -419,6 +439,16 @@
       "title": "Counting Stars",
       "sub": "佛山 · 线下签售",
       "url": "https://weverse.io/and2ble/notice/40599"
+    },
+    {
+      "date": "2026-11-22",
+      "t": "",
+      "zone": "CST",
+      "group": "artist",
+      "type": "签售",
+      "title": "Counting Stars｜佛山线下签售（11/22）",
+      "sub": "A组40名签售＋SAY BYE＋随机成员签名小卡；B组150名观礼＋SAY BYE；具体时间、地点另行通知中选者",
+      "url": "https://weverse.io/and2ble/notice/40832"
     },
     {
       "date": "2026-11-22",
