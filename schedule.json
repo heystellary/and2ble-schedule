@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-10",
+  "updated": "2026-11-11",
   "events": [
     {
       "date": "2026-11-01",
@@ -381,6 +381,16 @@
       "url": "https://and2ble-official.jp/s/n219o/page/news_detail?id=587830"
     },
     {
+      "date": "2026-11-16",
+      "t": "18:00",
+      "zone": "CST",
+      "group": "fan",
+      "type": "签售",
+      "title": "Counting Stars｜11/22 佛山活动中选公布",
+      "sub": "官网18:00后公布 · 线下签售与礼物递交会",
+      "url": "https://weverse.io/and2ble/notice/40832"
+    },
+    {
       "date": "2026-11-17",
       "t": "20:00",
       "zone": "KST",
@@ -446,8 +456,8 @@
       "zone": "CST",
       "group": "artist",
       "type": "签售",
-      "title": "Counting Stars｜佛山线下签售（11/22）",
-      "sub": "A组40名签售＋SAY BYE＋随机成员签名小卡；B组150名观礼＋SAY BYE；具体时间、地点另行通知中选者",
+      "title": "Counting Stars｜佛山签售＆礼物递交会（11/22）",
+      "sub": "佛山 · 线下签售A组40名＋观礼B组150名；另有礼物递交会50名（每成员10名）；活动时间、地点仅通知中选者",
       "url": "https://weverse.io/and2ble/notice/40832"
     },
     {
